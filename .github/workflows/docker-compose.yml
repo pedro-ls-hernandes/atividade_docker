@@ -23,4 +23,4 @@ jobs: #Define os jserviços que serão executados
         run: docker build -t pedrolshernandes/meu-app:latest .
 
       - name: Push da imagem para o Docker Hub #Faz o push da imagem para o DockerHub
-        run: docker push pedrolshernandes/meu-app:latest
+        run: docker image push pedrolshernandes/meu-app:latest
