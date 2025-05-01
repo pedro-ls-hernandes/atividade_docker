@@ -1,4 +1,4 @@
-# trabalho_tiago
+# Atividade Docker
 Trabalho em dupla
 
 Dockerize uma aplicação e adicione as funcionalidades para que o github actions faça a build da imagem e a envie para o docker hub.
